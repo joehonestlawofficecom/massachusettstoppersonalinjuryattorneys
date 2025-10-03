@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://massachusettstoppersonalinjuryattorneys.com/sitemap.xml
